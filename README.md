@@ -1,5 +1,4 @@
 # Ringside Design Style Guide
-## This is a public repo
 
 # Python
 * https://www.python.org/dev/peps/pep-0008/
@@ -9,3 +8,6 @@
 
 # CSS/LESS/SCSS
 
+
+
+> #this is a public repo
